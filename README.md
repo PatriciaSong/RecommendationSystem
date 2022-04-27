@@ -1,4 +1,4 @@
-# Project 4: Machine Learning Fairness
+# Project 5: Movie Recommendation System
 
 ### [Project Description](doc/project5_desc.md)
 
